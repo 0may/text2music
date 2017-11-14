@@ -1,0 +1,1 @@
+Ein kurzer Text, der Kommas hat, soll als Test dienen. Und Sonderzeichen wie in groß, Brücke, und sö weitär. 
